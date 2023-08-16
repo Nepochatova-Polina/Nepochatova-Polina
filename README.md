@@ -37,11 +37,6 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-</div>
-
-### :gear: Currently studying :
-
-<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="ruby" alt="ruby" width="40" height="40"/>&nbsp;
@@ -51,9 +46,5 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :bar_chart: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nepochatova-Polina&theme=ocean-dark&hide_border=true&card_width=800)](https://git.io/streak-stats)
-<br/><br/><br/>
-
-### :pencil2: Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nepochatova-Polina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nepochatova-Polina&theme=ocean-dark&hide_border=true&card_width=500)](https://git.io/streak-stats)               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nepochatova-Polina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
