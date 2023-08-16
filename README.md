@@ -19,7 +19,7 @@
 ---
 
 ### :woman_technologist: About Me:
-I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Junior Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> passionate about technologies.
 
 - :school: Graduated from Taras Shevchenko KNU with a degree in Software Engineering.
 - :potted_plant: I’m currently studying microservices.
