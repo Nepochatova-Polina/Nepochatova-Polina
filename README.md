@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZqZzNuczEyaGFoanZxeWFjaGx1dmlvYWthbzR6c2dxZDhoamZraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9cghZPGI3DiSygM6j7/giphy.gif" width="150"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZqZzNuczEyaGFoanZxeWFjaGx1dmlvYWthbzR6c2dxZDhoamZraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9cghZPGI3DiSygM6j7/giphy.gif" width="200"/>
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :school: Graduated from Taras Shevchenko KNU with a degree in Software Engineering.
-- :potted_plant: I’m currently learning microservices.
+- :potted_plant: I’m currently studying microservices.
 - :ice_cream: In my free time, I improve my technical skills and read tech articles.
 - :dizzy: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](http://www.linkedin.com/in/polina-nepochatova)
 
