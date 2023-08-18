@@ -47,6 +47,11 @@ I am a Junior Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
+### My Certificates
+<img src = "css certificate (1).png" width="350" height="230"/> <img src = "sql_basic_certificate.png" width="350" height="230"/>
+
+---
+
 ### :bar_chart: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nepochatova-Polina&theme=ocean-dark&hide_border=true&card_width=500)](https://git.io/streak-stats)               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nepochatova-Polina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
